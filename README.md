@@ -43,7 +43,7 @@ Follow these steps to set up and run the YouTube Video Downloader:
 6. Run the Flask application:
     ``bash
     flask run
-7. Open a web browser to `http:127.0.0.1:5000` to access the application.
+7. Open a web browser to `http://127.0.0.1:5000` to access the application.
 
 ## 📝 Usage 
 
